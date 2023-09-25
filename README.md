@@ -2,13 +2,13 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on 密码学算法工程师
-- 📫 How to reach me 1500464121@qq.com 
-- 
+- 📫 How to reach me 1500464121@qq.com
+
 **** 工作职责
   
 - 门限签名、零知识证明等行业相关密码学算法的研究和工程实现
 - 跟踪密码学领域前沿技术发展
-- 
+
 **** 任职资格
   
 - 密码学或数学专业，硕士及以上学历，有较强的的算法工程实现能力
